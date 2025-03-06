@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style.css" />
+    <title>Milestone 3</title>
+</head>
+<body> 
+    <table>
+        <tr>
+        <td><a href="Milestone 1"> Milestone 1</a></td>
+        <td><a href="Milestone 2"> Milestone 1</a></td>
+        <td><a href="Milestone 3"> Milestone 1</a></td>
+        <td><a href="Milestone1 4"> Milestone 1</a></td>
+        <td><a href="Milestone 5"> Milestone 1</a></td>
+    </tr>
+    </table>
+</body>
+</html>

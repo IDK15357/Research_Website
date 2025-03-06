@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style.css" />
+    <title>Milestone 1</title>
+</head>
+<body>
+    <header>Invention of the telephone</header>
+    <main>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.telefonica.com%2Fen%2Fcommunication-room%2Fblog%2Fhistory-of-the-telephone%2F&psig=AOvVaw3bL0OaOfhGL__LHSb7NuPd&ust=1741367981749000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCo3rH79YsDFQAAAAAdAAAAABAE" alt="Telephone" class="Telephone-img">
+        <p>While Italian innovator Antonio Meucci (pictured at left) is credited with inventing the first basic phone in 1849, and Frenchman Charles Bourseul devised a phone in 1854, Alexander Graham Bell won the first U.S. patent for the device in 1876.</p>
+    </main> 
+    <table>
+        <tr>
+        <td><a href="Milestone1"> Milestone 1</a></td>
+        <td><a href="Milestone2"> Milestone 1</a></td>
+        <td><a href="Milestone 3"> Milestone 1</a></td>
+        <td><a href="Milestone"> Milestone 1</a></td>
+        <td><a href="Milestone5"> Milestone 1</a></td>
+    </tr>
+    </table>
+</body>
+<footer>
+    <p>Source:1870s-1940s: Telephone. (n.d.). Imagining the Internet | Elon University. https://www.elon.edu/u/imagining/time-capsule/150-years/back-1870-1940/#:~:text=While%20Italian%20innovator%20Antonio%20Meucci,for%20the%20device%20in%201876.  </p>
+</footer>
+</html>             
